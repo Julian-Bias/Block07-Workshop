@@ -9,7 +9,7 @@ console.log(msg);
 
 let num1 = 2 + 8;
 let num2 = 60 - 20;
-let num3 = 40 - 1;
+let num3 = 40 / 1;
 let code = `${num1} - ${num2} - ${num3}`;
 console.log(code);
 alert(code);
