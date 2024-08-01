@@ -7,10 +7,10 @@ let msg =
   "You have received this message because you have been chosen to open an important vault. Here is the secret combination.";
 console.log(msg);
 
-let num1 = 2 + 8;
-let num2 = 60 - 20;
-let num3 = 40 / 1 - 1;
-let code = `${num1} - ${num2} - ${num3}`;
+const num1 = 2 + 8;
+const num2 = 60 - 20;
+const num3 = 40 / 1 - 1;
+const code = `${num1} - ${num2} - ${num3}`;
 console.log(code);
 alert(code);
 
